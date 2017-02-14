@@ -1,3 +1,6 @@
+轻量级弱口令检测脚本，目前支持以下服务：FTP、MYSQL、MSSQL、MONGODB、REDIS、TELNET、ELASTICSEARCH、POSTGRESQL。
+
+
 # F-Scrack
 
 **F-Scrack** is a single file bruteforcer supports multi-protocol, no extra library requires except python standard library, which is ideal for a quick test.
